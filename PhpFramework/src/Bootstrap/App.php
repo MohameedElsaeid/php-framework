@@ -2,6 +2,7 @@
 
 namespace PhpFramework\Bootstrap;
 
+use PhpFramework\Cookie\Cookie;
 use PhpFramework\Exceptions\Whoops;
 use PhpFramework\Session\Session;
 
