@@ -1,5 +1,7 @@
 <?php
 
+use PhpFramework\Bootstrap\App;
+
 
 /**
  * Class Application
@@ -21,6 +23,19 @@ class Application
      */
     public static function run(): void
     {
-        echo 'Hello';
+        /*
+         * Define Root path
+         */
+        define('ROOT', dirname(__DIR__) . '');
+
+        /*
+         * Define DIRECTORY SEPARATOR
+         */
+        define('DS', DIRECTORY_SEPARATOR);
+
+        /*
+         * Run The Application
+         */
+        App::run();
     }
 }

@@ -7,30 +7,30 @@ ini_set('display_errors', 'On');
  */
 
 /**
- * |------------------------------------------------------
- * | Register AutoLoader
- * |------------------------------------------------------
- * | Load the autoloader that will generate classes that well be used
- * |
+ |------------------------------------------------------
+ | Register AutoLoader
+ |------------------------------------------------------
+ | Load the autoloader that will generate classes that well be used
+ |
  */
 require __DIR__ . '/../vendor/autoload.php';
 
 
 /**
- * |------------------------------------------------------
- * | Bootstrap The Application
- * |------------------------------------------------------
- * | Bootstrap the applications and handle framework actions
- * |
+ |------------------------------------------------------
+ | Bootstrap The Application
+ |------------------------------------------------------
+ | Bootstrap the applications and handle framework actions
+ |
  */
 require __DIR__ . '/../bootstrap/Application.php';
 
 
 /**
- * |------------------------------------------------------
- * | Run Application
- * |------------------------------------------------------
- * | Handel Request and response
- * |
+ |------------------------------------------------------
+ | Run Application
+ |------------------------------------------------------
+ | Handel Request and response
+ |
  */
-$app = Application::run();
+Application::run();

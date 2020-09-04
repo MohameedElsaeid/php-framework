@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9d33d762-98b2-4006-b32e-5c0bf157d2c1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/Application.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/Application.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599251628796</updated>
-      <workItem from="1599251629868" duration="2230000" />
+      <workItem from="1599251629868" duration="5060000" />
     </task>
     <servers />
   </component>
@@ -54,21 +55,25 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="768" y="251" width="374" height="568" key="#com.intellij.ide.util.MemberChooser" timestamp="1599253835252">
+    <state x="768" y="251" width="374" height="568" key="#com.intellij.ide.util.MemberChooser" timestamp="1599256627336">
       <screen x="0" y="27" width="1920" height="1011" />
     </state>
-    <state x="768" y="251" width="374" height="568" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1011@0.27.1920.1011" timestamp="1599253835252" />
-    <state x="678" y="252" width="553" height="567" key="NewPhpClassDialog" timestamp="1599251907129">
+    <state x="768" y="251" width="374" height="568" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1011@0.27.1920.1011" timestamp="1599256627336" />
+    <state x="693" y="281" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599253958921">
       <screen x="0" y="27" width="1920" height="1011" />
     </state>
-    <state x="678" y="252" width="553" height="567" key="NewPhpClassDialog/0.27.1920.1011@0.27.1920.1011" timestamp="1599251907129" />
-    <state x="755" y="458" width="399" height="155" key="NewPhpFileDialog" timestamp="1599252458036">
+    <state x="693" y="281" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1011@0.27.1920.1011" timestamp="1599253958921" />
+    <state x="678" y="252" width="745" height="567" key="NewPhpClassDialog" timestamp="1599254955000">
       <screen x="0" y="27" width="1920" height="1011" />
     </state>
-    <state x="755" y="458" width="399" height="155" key="NewPhpFileDialog/0.27.1920.1011@0.27.1920.1011" timestamp="1599252458036" />
-    <state x="623" y="248" key="search.everywhere.popup" timestamp="1599253507537">
+    <state x="678" y="252" width="745" height="567" key="NewPhpClassDialog/0.27.1920.1011@0.27.1920.1011" timestamp="1599254955000" />
+    <state x="755" y="458" width="399" height="155" key="NewPhpFileDialog" timestamp="1599254545353">
       <screen x="0" y="27" width="1920" height="1011" />
     </state>
-    <state x="623" y="248" key="search.everywhere.popup/0.27.1920.1011@0.27.1920.1011" timestamp="1599253507537" />
+    <state x="755" y="458" width="399" height="155" key="NewPhpFileDialog/0.27.1920.1011@0.27.1920.1011" timestamp="1599254545353" />
+    <state x="623" y="248" width="672" height="678" key="search.everywhere.popup" timestamp="1599254204812">
+      <screen x="0" y="27" width="1920" height="1011" />
+    </state>
+    <state x="623" y="248" width="672" height="678" key="search.everywhere.popup/0.27.1920.1011@0.27.1920.1011" timestamp="1599254204812" />
   </component>
 </project>
