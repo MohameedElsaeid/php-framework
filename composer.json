@@ -1,0 +1,22 @@
+{
+  "name": "mohamedelsaed/php-framework",
+  "description": "Build My own php framework",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mohamed Ashraf Elsaed",
+      "email": "m.ashraf.saed@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": "^7.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/",
+      "PhpFramework\\": "PhpFramework/src/"
+    }
+  }
+}
