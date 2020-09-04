@@ -2,14 +2,8 @@
 
 namespace PhpFramework\Cookie;
 
-class Cookie
+abstract class Cookie
 {
-    /**
-     * Session constructor.
-     */
-    private function __construct()
-    {
-    }
 
     /**
      * Set To Cookies

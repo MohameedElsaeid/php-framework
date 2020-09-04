@@ -44,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599251628796</updated>
-      <workItem from="1599251629868" duration="5685000" />
+      <workItem from="1599251629868" duration="6414000" />
     </task>
     <servers />
   </component>
@@ -56,14 +56,18 @@
       <screen x="0" y="27" width="1920" height="1011" />
     </state>
     <state x="768" y="251" width="374" height="568" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1011@0.27.1920.1011" timestamp="1599256627336" />
+    <state x="701" y="323" width="508" height="425" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599257759791">
+      <screen x="0" y="27" width="1920" height="1011" />
+    </state>
+    <state x="701" y="323" width="508" height="425" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1920.1011@0.27.1920.1011" timestamp="1599257759791" />
     <state x="693" y="281" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599253958921">
       <screen x="0" y="27" width="1920" height="1011" />
     </state>
     <state x="693" y="281" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1011@0.27.1920.1011" timestamp="1599253958921" />
-    <state x="678" y="252" width="745" height="567" key="NewPhpClassDialog" timestamp="1599256932714">
+    <state x="678" y="252" width="745" height="567" key="NewPhpClassDialog" timestamp="1599257752541">
       <screen x="0" y="27" width="1920" height="1011" />
     </state>
-    <state x="678" y="252" width="745" height="567" key="NewPhpClassDialog/0.27.1920.1011@0.27.1920.1011" timestamp="1599256932714" />
+    <state x="678" y="252" width="745" height="567" key="NewPhpClassDialog/0.27.1920.1011@0.27.1920.1011" timestamp="1599257752541" />
     <state x="755" y="458" width="399" height="155" key="NewPhpFileDialog" timestamp="1599256910227">
       <screen x="0" y="27" width="1920" height="1011" />
     </state>

@@ -11,15 +11,8 @@ use Whoops\Run;
  * Class Whoops
  * @package PhpFramework\Exceptions
  */
-class Whoops
+abstract class Whoops
 {
-    /**
-     * Whoops constructor.
-     */
-    private function __construct()
-    {
-    }
-
     /**
      * Handle Whoops errors
      *

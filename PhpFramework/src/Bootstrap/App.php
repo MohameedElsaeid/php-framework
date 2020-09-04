@@ -4,6 +4,7 @@ namespace PhpFramework\Bootstrap;
 
 use PhpFramework\Cookie\Cookie;
 use PhpFramework\Exceptions\Whoops;
+use PhpFramework\Http\Server;
 use PhpFramework\Session\Session;
 
 class App
