@@ -2,9 +2,8 @@
 
 namespace PhpFramework\Bootstrap;
 
-use PhpFramework\Cookie\Cookie;
 use PhpFramework\Exceptions\Whoops;
-use PhpFramework\Http\Server;
+use PhpFramework\Http\Request;
 use PhpFramework\Session\Session;
 
 class App
@@ -27,5 +26,9 @@ class App
 
         //Start Session
         Session::start();
+
+        //Handel Request
+        Request::handle();
+
     }
 }

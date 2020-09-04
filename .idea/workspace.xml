@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d33d762-98b2-4006-b32e-5c0bf157d2c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php-framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php-framework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PhpFramework/src/Bootstrap/App.php" beforeDir="false" afterPath="$PROJECT_DIR$/PhpFramework/src/Bootstrap/App.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +23,7 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
   <component name="ProjectId" id="1h3tVk06py10w7NrT1gMn4ZzIbD" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -34,6 +39,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -44,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599251628796</updated>
-      <workItem from="1599251629868" duration="6414000" />
+      <workItem from="1599251629868" duration="10095000" />
     </task>
     <servers />
   </component>
@@ -52,10 +58,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="768" y="251" width="374" height="568" key="#com.intellij.ide.util.MemberChooser" timestamp="1599256627336">
+    <state x="768" y="251" width="441" height="574" key="#com.intellij.ide.util.MemberChooser" timestamp="1599261945745">
       <screen x="0" y="27" width="1920" height="1011" />
     </state>
-    <state x="768" y="251" width="374" height="568" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1011@0.27.1920.1011" timestamp="1599256627336" />
+    <state x="768" y="251" width="441" height="574" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1011@0.27.1920.1011" timestamp="1599261945745" />
     <state x="701" y="323" width="508" height="425" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599257759791">
       <screen x="0" y="27" width="1920" height="1011" />
     </state>
@@ -64,14 +70,18 @@
       <screen x="0" y="27" width="1920" height="1011" />
     </state>
     <state x="693" y="281" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1011@0.27.1920.1011" timestamp="1599253958921" />
-    <state x="678" y="252" width="745" height="567" key="NewPhpClassDialog" timestamp="1599257752541">
+    <state x="678" y="252" width="745" height="567" key="NewPhpClassDialog" timestamp="1599258409477">
       <screen x="0" y="27" width="1920" height="1011" />
     </state>
-    <state x="678" y="252" width="745" height="567" key="NewPhpClassDialog/0.27.1920.1011@0.27.1920.1011" timestamp="1599257752541" />
+    <state x="678" y="252" width="745" height="567" key="NewPhpClassDialog/0.27.1920.1011@0.27.1920.1011" timestamp="1599258409477" />
     <state x="755" y="458" width="399" height="155" key="NewPhpFileDialog" timestamp="1599256910227">
       <screen x="0" y="27" width="1920" height="1011" />
     </state>
     <state x="755" y="458" width="399" height="155" key="NewPhpFileDialog/0.27.1920.1011@0.27.1920.1011" timestamp="1599256910227" />
+    <state x="449" y="167" width="1022" height="736" key="SettingsEditor" timestamp="1599258442671">
+      <screen x="0" y="27" width="1920" height="1011" />
+    </state>
+    <state x="449" y="167" width="1022" height="736" key="SettingsEditor/0.27.1920.1011@0.27.1920.1011" timestamp="1599258442671" />
     <state x="623" y="248" width="672" height="678" key="search.everywhere.popup" timestamp="1599254204812">
       <screen x="0" y="27" width="1920" height="1011" />
     </state>
