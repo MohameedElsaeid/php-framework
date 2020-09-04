@@ -3,6 +3,7 @@
 namespace PhpFramework\Bootstrap;
 
 use PhpFramework\Exceptions\Whoops;
+use PhpFramework\File\File;
 use PhpFramework\Http\Request;
 use PhpFramework\Session\Session;
 
@@ -29,6 +30,10 @@ class App
 
         //Handel Request
         Request::handle();
+
+        //Require All Routes Directory
+        File::requireDirectory('routes');
+
 
     }
 }
