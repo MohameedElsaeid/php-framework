@@ -5,6 +5,7 @@ namespace PhpFramework\Bootstrap;
 use PhpFramework\Exceptions\Whoops;
 use PhpFramework\File\File;
 use PhpFramework\Http\Request;
+use PhpFramework\Router\Route;
 use PhpFramework\Session\Session;
 
 class App
@@ -34,6 +35,9 @@ class App
         //Require All Routes Directory
         File::requireDirectory('routes');
 
+        echo '<pre>';
+        print_r(Route::allRoutes());
+        echo '<pre>';
 
     }
 }
