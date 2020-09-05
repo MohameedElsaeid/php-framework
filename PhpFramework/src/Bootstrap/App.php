@@ -36,7 +36,7 @@ class App
         File::requireDirectory('routes');
 
         echo '<pre>';
-        print_r(Route::allRoutes());
+        print_r(Route::handle());
         echo '<pre>';
 
     }

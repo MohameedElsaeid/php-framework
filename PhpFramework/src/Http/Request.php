@@ -79,7 +79,7 @@ abstract class Request
             [$requestUri, $queryString] = explode('?', $requestUri);
         }
 
-        static::$url = $requestUri;
+        static::$url = $requestUri ?: '/';
         static::$queryString = $queryString;
     }
 
